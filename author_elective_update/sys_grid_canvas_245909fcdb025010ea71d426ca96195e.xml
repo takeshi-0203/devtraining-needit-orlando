@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA NeedIt Application - New Tab 2">ac5909fcdb025010ea71d426ca96195d</legacy_page>
+        <name>PA NeedIt Application - New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 06:30:59</sys_created_on>
+        <sys_id>245909fcdb025010ea71d426ca96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA NeedIt Application - New Tab 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_245909fcdb025010ea71d426ca96195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 06:30:59</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>67b7e8a8db88e384439ef70fbf96194a</instance_id>
+        <instance_name>dev71027</instance_name>
+        <name>sys_grid_canvas_245909fcdb025010ea71d426ca96195e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA NeedIt Application - New Tab 2">ac5909fcdb025010ea71d426ca96195d</legacy_page><name>PA NeedIt Application - New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-14 06:30:59</sys_created_on><sys_id>245909fcdb025010ea71d426ca96195e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA NeedIt Application - New Tab 2</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_grid_canvas_245909fcdb025010ea71d426ca96195e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-14 06:30:59</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>-1363893168</payload_hash>
+        <record_name>PA NeedIt Application - New Tab 2</record_name>
+        <reverted_from/>
+        <source>d468e4f8dbce1010ea71d426ca9619fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 06:30:59</sys_created_on>
+        <sys_id>a45909fcdb025010ea71d426ca96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1734c04f17c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 06:30:59</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>ec5909fc64025010eef445287ed28e5e</update_guid>
+        <update_guid_history>ec5909fc64025010eef445287ed28e5e:-1363893168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 06:32:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>5d8cb4fbda9347fea6b5cc178f4742f9</sys_id>
+        <sys_metadata>245909fcdb025010ea71d426ca96195e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA NeedIt Application - New Tab 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_245909fcdb025010ea71d426ca96195e</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_245909fcdb025010ea71d426ca96195e">a45909fcdb025010ea71d426ca96195f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 06:32:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
